@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dhNCunHIIl0Hs35C1LgU-64" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="410" y="540" width="310" height="200" as="geometry" />
+          <mxGeometry x="410" y="540" width="350" height="200" as="geometry" />
         </mxCell>
         <mxCell id="slKawZ6SiaEYK7TQqjMh-166" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" target="slKawZ6SiaEYK7TQqjMh-161">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -133,7 +133,7 @@
           <mxGeometry x="233.37" y="540" width="137.13" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dhNCunHIIl0Hs35C1LgU-65" value="Second evaluation phase" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="476.75" y="540" width="136.5" height="30" as="geometry" />
+          <mxGeometry x="494.58" y="540" width="136.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dhNCunHIIl0Hs35C1LgU-67" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;LLM 1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="115" y="580" width="45" height="30" as="geometry" />
@@ -566,6 +566,9 @@
         </mxCell>
         <mxCell id="slKawZ6SiaEYK7TQqjMh-210" value="&lt;font style=&quot;color: rgb(166, 128, 184);&quot;&gt;BERT Score&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(166, 128, 184);&quot;&gt;ROUGE&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(166, 128, 184);&quot;&gt;Composite&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=6;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="634.5" y="678" width="100" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="slKawZ6SiaEYK7TQqjMh-212" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;Output:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(71, 71, 71); font-family: Arial, sans-serif; text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;ŷ&lt;/span&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;&lt;i&gt;bes&lt;/i&gt;&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;color: rgb(71, 71, 71); font-family: Arial, sans-serif; text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;&lt;i&gt;t&lt;/i&gt;&lt;/font&gt;&lt;/span&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="710" y="645.87" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
