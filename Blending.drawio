@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11">
   <diagram name="Page-1" id="m3b1C--dupeoi9qy09vE">
-    <mxGraphModel dx="437" dy="277" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="662" dy="419" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -988,7 +988,7 @@
           <mxGeometry x="318.88" y="307.9" width="19.72" height="12.1" as="geometry" />
         </mxCell>
         <mxCell id="T-coR3i_u403PfEsT0Yl-32" value="&lt;font style=&quot;color: rgb(234, 107, 102);&quot;&gt;Rouge-1 Mean&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="285" y="253.64000000000001" width="140" height="30" as="geometry" />
+          <mxGeometry x="285" y="260" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="T-coR3i_u403PfEsT0Yl-2" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -999,6 +999,18 @@
               <mxPoint x="240" y="360" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="T-coR3i_u403PfEsT0Yl-35" value="&lt;font style=&quot;color: rgb(0, 153, 77); font-size: 11px;&quot;&gt;&lt;b&gt;Ensemble+Ranking&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="134.92" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T-coR3i_u403PfEsT0Yl-36" value="&lt;font style=&quot;color: rgb(166, 128, 184); font-size: 11px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Single&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="254.1" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T-coR3i_u403PfEsT0Yl-37" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;i&gt;size&amp;nbsp; &amp;nbsp; &lt;b&gt;&amp;lt;&lt;/b&gt;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="208.26" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T-coR3i_u403PfEsT0Yl-38" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;i&gt;size&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="284.33" y="370" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
